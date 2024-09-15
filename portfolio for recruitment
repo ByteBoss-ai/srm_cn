@@ -1,0 +1,101 @@
+ <html>
+    <head>
+        <title>My Resume</title>
+    </head>
+    <body>
+        <center><h2>Xyz Abc</h2><h4>Frontend Web Dev</h4></center>
+        <h3><center>+910123456789/xyzabc123@gmail.com</center></h3>
+        <!-- Media -->
+        <!-- Image -->
+        <center><img src="https://images.pexels.com/photos/26186220/pexels-photo-26186220/free-photo-of-a-man-standing-with-his-arms-crossed.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Man" height="200" width="160"></center>
+        <hr>
+        <h2>EDUCATION:</h2>
+        <ul>
+            <li>Faraday School of Technology, Bhopal: 2023 - Present</li>
+            <li>XII (CBSE) Maha Shakti Vidyalaya, New Delhi: 89%/2023</li>
+            <li>X (ICSE) Rama International School, Mumbai: 96.8%/2021</li>
+        </ul>
+ <h2>SKILLS:</h2>
+        <ol>
+            <li>Team Leading</li>
+            <li>Team Building & Management</li>
+            <li>Team Coordination</li>
+            <li>Web Development: HTML, CSS, JS, Node.js, Python, Django</li>
+        </ol>
+        <h2>ACADEMIC PROJECTS:</h2>
+        <ul>
+            <li>Resume Building</li>
+            <li>Business Building</li>
+        </ul>
+        <h2>EXPERIENCE:</h2>
+        <ul>
+            <li><b>Intern at Xyz Corporations:</b> (Dec '23 - Jun '24)</li>
+            <p>Worked as a <b><i>Frontend Developer</i></b> working on <mark>HTML, CSS, JS, Node.js</mark></p>
+        </ul>
+        <h2>POSITION OF RESPONSIBILITY:</h2>
+        <ul>
+            <li><b>House Captain, New Delhi:</b> (Apr '22 - Mar '23)</li>
+            <li><b>Jr. Student Rep, RIS Mumbai:</b> (Apr '20 - Mar '21)</li>
+        </ul>
+        <h2>ACHIEVEMENTS:</h2>
+        <ul>
+            <li><b>Intern of the Year</b> at Xyz Coorporation</li>
+            <li><b>Star Coder</b> at LeetCode</li>
+        </ul>
+        <h2>Web Dev Experience:</h2>
+        <table border>
+            <tr>
+                <th colspan="4">Frontend Website Development</th>
+                <th colspan="2">Backend Website Development</th>
+            </tr>
+            <tr>
+                <td>HTML</td>
+                <td>CSS</td>
+                <td>JavaScript</td>
+                <td>Node.js</td>
+                <td>Node.js</td>
+                <td>Django</td>
+            </tr>
+            <tr>
+                <td>5 Years</td>
+                <td>4 Years</td>
+                <td>3 Years</td>
+                <td>2 Years</td>
+                <td>2 Years</td>
+                <td>1 Year</td>
+            </tr>
+        </table>
+        <h2>SUMMARY:</h2>
+        <p>I am Very Passionate about My Work, as You might noticed from My <b><i>Intern of the Year Award</i></b>, that too during <b>My Freshman Year</b>. <br>
+I am pretty Sure I would give You <b>[log<sub>10</sub>1]</b> chances/reasons of complains, and I also Promise to Outperform all the other interns by <b>[10<sup>1</sup>]</b> times if I have to prove my worth. <br>
+            I am sure You won't regret the decision of Hiring Me.</p>
+        <p>Generally, Interns of My Level ask for a Salary of Rs. 20,000/month. But, I am willing to work for Rs. <del>20,000</del> 19,000/month only.</p>
+        <hr>
+        <!-- Media -->
+        <!-- Video -->
+        <h3>What Other Interns Bring You On Table:</h3>
+        <video src="https://videos.pexels.com/video-files/20714563/20714563-hd_1080_1920_60fps.mp4"  height="400" width="200" controls></video>
+        <h3>What I will:</h3>
+        <video src="https://videos.pexels.com/video-files/14545576/14545576-uhd_1440_1746_20fps.mp4" height="400" width="300" controls></video>
+        <hr>
+        <h3>Testaments of My Work: (A few words by My Colleagues)</h3>
+        <!-- Media -->
+        <!-- Audio -->
+        <audio src="" controls></audio>
+        <hr>
+        <h3>Please Leave a Review Down Below:</h3>
+        <form>
+            Name: <input type="text" name="" id="" placeholder="Full Name" required><br>
+            Email: <input type="email" name="" id="" placeholder="Email Id" required><br>
+            DOB: <input type="date" name="" id=""><br>
+            Gender: <input type="radio" name="Gender" id="">Male <input type="radio" name="Gender" id="">Female <input type="radio" name="Gender" id="">Others <br>
+            Password: <input type="password" name="" id="" required><br>
+            Review: <input type="text" name="" id=""><br>
+            <input type="submit" value="Submit">
+        </form>
+        <hr>
+        <h2>REFERENCES:</h2>
+        <!-- Hyperlink -->
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs" target="_blank">Proceed With Caution! You might just get Rick-Rolled</a>
+    </body>
+</html>
